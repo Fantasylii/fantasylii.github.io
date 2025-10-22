@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Gong Chenghua"
+title                    : "Li Kunxi"
 description              : "Major in Data Science"
-repository               : "gongchenghua/gongchenghua.github.io"
+repository               : "fantasylii/fantasylii.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Gong Chenghua"
+  name             : "Li Kunxi"
   avatar           : "images/7adeed4739fad1145cd11b03f0978073.jpg"
   bio              : "East China Normal University,School of Data Science and Engineering"
-  location         : "Shanghai, China"
-  employer         :
+  location         : "China"
+  employer         : "Zhejiang University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "1424996843@qq.com"
+  email            : "kunxili@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
