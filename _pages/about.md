@@ -18,7 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵🏻 About me
-I am a Master's student at Zhejiang University, advised by Prof. Shengyu Zhang, and currently a Technical Staff Intern at InfiX.ai. My research focuses on efficient multimodal large language models (MLLMs), knowledge migration across heterogeneous architectures, and parameter-efficient fine-tuning for edge devices.
+I am a Master's student at Zhejiang University, advised by Prof. Shengyu Zhang, and currently a Technical Staff Intern at InfiX.ai. I am interested in the following topics:
+- Model Merging
+- KV Cache Optimization
+- Knowledge Transfer
 
 # 📝 Publications 
 - **[ACL, Main 2025] MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference**
