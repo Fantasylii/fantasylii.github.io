@@ -23,8 +23,8 @@ repository               : "fantasylii/fantasylii.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/pic.png"
   name             : "Li Kunxi"
+  avatar           : "images/pic.png"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "China"
