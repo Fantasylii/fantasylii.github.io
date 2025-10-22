@@ -24,7 +24,7 @@ repository               : "Fantasylii/fantasylii.github.io"
 author:
   # Biographic information
   name             : "Li Kunxi"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "China"
