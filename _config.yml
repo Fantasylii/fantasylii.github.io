@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/7adeed4739fad1145cd11b03f0978073.jpg"
   name             : "Li Kunxi"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
